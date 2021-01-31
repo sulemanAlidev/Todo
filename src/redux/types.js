@@ -1,0 +1,8 @@
+const types ={
+    ADD_TASK:'ADD_TASK',
+    LOAD_DETAILS:'LOAD_DETAILS',
+    ADD_DETAILS:'ADD_DETAILS',
+    CANCEL_DETAILS:'CANCEL_DETAILS',
+    COMPLETE_TASK:'COMPLETE_TASK'
+}
+export default  types;

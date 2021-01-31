@@ -1,0 +1,23 @@
+.container {
+  margin-top: 20px;
+}
+form{
+  max-width: max-content;
+  background-color: #eee;
+  margin-bottom: 20px;
+}
+.delete:hover {
+  cursor: pointer;
+}
+.update:hover {
+  cursor: pointer;
+}
+input{
+  background-color: #eee;  
+  font-size: large;  
+}
+
+li {
+  background-color: #eee;
+  min-width: min-content;
+}
